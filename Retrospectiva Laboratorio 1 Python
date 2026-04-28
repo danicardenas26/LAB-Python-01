@@ -1,0 +1,24 @@
+Retrospectiva del Laboratorio
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+Tiempo total (Horas/Hombre): 5 horas (Desarrollo lógico, pruebas en Colab)
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Todos en Python fueron desarrollado, probados y documentados exitosamente en Google Colab, cumpliendo con los requerimientos de la guía.
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+La integración exitosa de APIs externas, extraer datos dinámicos, procesar archivos JSON y aplicarles condicionales.
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+El manejo de errores y validación de datos. 
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Aspecto positivo: Mantuve un excelente orden estructurando y probando el código bloque por bloque
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+La más útil fue la documentación oficial de Python para repasar el manejo de listas y diccionarios, seguida de la documentación de las APIs.
+
+Python Software Foundation. (2024). The Python Standard Library. 
+
+PokéAPI. (s.f.). PokéAPI Documentation. 
+
+JSONPlaceholder. (s.f.). Free Fake REST API.  
